@@ -1,2 +1,4 @@
 Chapter 1
     - This s the start of chapter 1 + adding new file
+    - added a line on day 2
+    - added a line on day 3

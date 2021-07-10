@@ -12,7 +12,7 @@
         return "prime";
     }
 
-    $n = 31;
+    $n = 30;
     echo primeOrnot($n);
 
 ?>
